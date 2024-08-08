@@ -147,7 +147,7 @@ padding: 0 15px; margin: 0 auto;
       color: #2e2f42;
       margin-bottom: 8px; 
      }
-      .feauture-list-item { width: calc((100% - 72px) / 4);
+      .feauture-list-item { width: calc((100% - 72px) / 5);
       }
 
      .feature-text {font-weight: 400;
