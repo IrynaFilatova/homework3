@@ -136,19 +136,21 @@ padding: 0 15px; margin: 0 auto;
 
      /* #region Feautures */
 
-    .section-features {background-color: #fff;
+     .section-features {background-color: #fff;
       padding: 120px 0;
     }
-   .feature-menu {display: flex; gap: 24px; margin-left: 0; margin-right: 0;}
-    .feature-item {font-weight: 500;
+    .feature-menu {display: flex; gap: 24px; margin-left: 0; margin-right: 0;}
+     .feature-item {font-weight: 500;
       font-size: 20px;
       line-height: 1.2;
       letter-spacing: 0.02em;
       color: #2e2f42;
       margin-bottom: 8px; 
      }
-.feauture-list-item { width: calc((100% - 72px) / 4);}
-    .feature-text {font-weight: 400;
+      .feauture-list-item { width: calc((100% - 72px) / 4);
+      }
+
+     .feature-text {font-weight: 400;
       font-size: 16px;
       line-height: 1.5;
       letter-spacing: 0.02em;
