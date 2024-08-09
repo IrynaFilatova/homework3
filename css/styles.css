@@ -147,7 +147,7 @@ padding: 0 15px; margin: 0 auto;
       color: #2e2f42;
       margin-bottom: 8px; 
      }
-      .feauture-list-item { width: calc((100% - 72px) / 4);
+      .feature-list-item { width: calc((100% - 72px) / 4);
       }
 
      .feature-text {font-weight: 400;
@@ -176,7 +176,7 @@ color: #2e2f42; margin-top: 0 auto; margin-bottom: 72px;
 .team-member-list {
   background-color: #ffffff;  border-radius: 0px 0px 4px 4px; }
 
-.team-member-list:first-child {width: calc((100% - 72px) / 4);}
+.team-member-list{width: calc((100% - 72px) / 4);}
 
 .team-member-name {font-weight: 500;
   font-size: 20px;
